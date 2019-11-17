@@ -1,0 +1,5 @@
+#database environment
+database:
+  url: https://www.something.com/
+  username: admin
+  userpassword: admin

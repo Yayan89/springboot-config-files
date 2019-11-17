@@ -1,0 +1,5 @@
+#database environment
+database:
+  url: https://www.local-server.com/
+  username: adminlocal
+  userpassword: adminlocal

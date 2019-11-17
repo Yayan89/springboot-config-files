@@ -1,0 +1,5 @@
+#database environment
+database:
+  url: https://www.devenvironemtn.com/
+  username: devenvironment
+  userpassword: devenvironment

@@ -1,0 +1,5 @@
+#database environment
+database:
+  url: https://www.realstuffgoeshere.com/
+  username: production-username
+  userpassword: production-password
